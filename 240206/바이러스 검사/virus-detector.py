@@ -12,6 +12,6 @@ for c in customers:
     p = 0
     p += n1
     if p < c:
-        cnt += math.ceiling((c - n1) / n2)
+        cnt += math.ceil((c - n1) / n2)
 
 print(cnt)
