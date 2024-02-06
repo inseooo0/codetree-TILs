@@ -1,4 +1,5 @@
 import sys
+import math
 input = sys.stdin.readline
 
 n = int(input())
@@ -10,8 +11,7 @@ cnt = n
 for c in customers:
     p = 0
     p += n1
-    while p < c:
-        p += n2
-        cnt += 1
+    if p < c:
+        cnt += math.ceiling((c - n1) / n2)
 
 print(cnt)
