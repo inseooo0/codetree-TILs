@@ -11,13 +11,13 @@
 
 
 ## 🏃 릴레이 기록
-![현재](https://img.shields.io/badge/현재_릴레이-1-%235cb85c.svg?for-the-badge)
-![최장](https://img.shields.io/badge/최장_릴레이-1-%23E34F26.svg?for-the-badge)
-![누적](https://img.shields.io/badge/누적_릴레이-1-%2300599C.svg?for-the-badge)
+![현재](https://img.shields.io/badge/현재_릴레이-2-%235cb85c.svg?for-the-badge)
+![최장](https://img.shields.io/badge/최장_릴레이-2-%23E34F26.svg?for-the-badge)
+![누적](https://img.shields.io/badge/누적_릴레이-2-%2300599C.svg?for-the-badge)
 
 |릴레이|문제|티어|유형|
 |---|---|---|---|
-|1|[내림차순으로 정렬하는 함수](https://www.codetree.ai/training-field/search/problems/functions-sorted-in-descending-order)|![Bronze2][b2]|`Function` `Sort`|
+|2|[내림차순으로 정렬하는 함수](https://www.codetree.ai/training-field/search/problems/functions-sorted-in-descending-order)|![Bronze2][b2]|`Function` `Sort`|
 
 
 
